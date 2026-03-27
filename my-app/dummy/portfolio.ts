@@ -7,6 +7,8 @@ export type DummyPortfolio = {
   image: string; // path di /public
 };
 
+
+
 export const PORTFOLIOS: DummyPortfolio[] = [
   {
     slug: "digital-strategy-telkom",
